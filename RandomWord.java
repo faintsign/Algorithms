@@ -1,5 +1,5 @@
 /* *****************************************************************************
- *  Name:              Faint
+ *  Name:   Faint
  *  File: RandomWord.java
  *  Project: Algorithms part 1
  *  Last modified:     4/13/22
