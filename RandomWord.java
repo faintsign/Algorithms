@@ -2,7 +2,6 @@
  *  Name:              Faint
  *  File: RandomWord.java
  *  Project: Algorithms part 1
- *  Coursera User ID:  123456
  *  Last modified:     4/13/22
  *  Description:
  *  A program that selects a random word from standard input.
